@@ -31,13 +31,3 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
-<h3 align='left'>📊 GitHub Stats:</h3>
-<p align='center'>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyrilmelvic&theme=solarized_dark' />
-</p>
-
-<h3 align='left'>🌟 My GitHub Streak:</h3>
-<p align='center'>
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=cyrilmelvic&theme=solarized_dark' />
-</p>
-
